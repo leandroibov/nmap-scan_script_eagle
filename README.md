@@ -1,6 +1,3 @@
-Hashs:
-255839789c603ba2d31a3a622b4d3e66445560d41f8c6b9069f379358d74c4f6 scan2.sh
-
 Executar:
 sudo chmod +x scan2.sh;
 sudo ./scan2.sh
